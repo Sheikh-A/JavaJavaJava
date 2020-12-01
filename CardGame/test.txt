@@ -1,0 +1,7 @@
+10
+20
+30
+40
+50
+Average is equal to 30.0
+Standard deviation equals15.811388300841896
